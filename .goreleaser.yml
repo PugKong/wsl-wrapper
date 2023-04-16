@@ -1,0 +1,3 @@
+builds:
+  - goos: [ windows ]
+    goarch: [ amd64, arm, arm64 ]
